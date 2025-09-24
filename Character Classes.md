@@ -14,7 +14,7 @@
 
 * surge caller - "A lightning mage who channels raw energy into fast, explosive strikes. Their spells crackle with danger and speed."
 
-* Chronomancer (timeless guild only) - "A time mage who bends reality's flow-slowing, speeding, or rewinding events. Their power is subtle but terrifying." 
+* Chronomancer (timeless guild only) - "A time mage who bends reality's flow slowing, speeding, or rewinding events. Their power is subtle but terrifying." 
 
 &nbsp;
 
@@ -22,14 +22,22 @@
 
 * Warrior - "A warrior is a disciplined combatant trained in the use of weapons, armor, and battlefield tactics. They rely on strength, endurance, and skill to dominate in close-quarters combat and protect allies."
 
-*
+**Subclass:**
 
+* Ironbound - "
+  
+* Ashbreaker - "
+  
+* Chronoknight - "
 
 &nbsp;
 
 **Class:** 
 
 * Rogue - "A rogue is a cunning and agile operative who thrives in the shadows. Masters of stealth, deception, and precision, they rely on speed and wit rather than brute force."
+
+**Subclass:**
+
 
 &nbsp;
 
