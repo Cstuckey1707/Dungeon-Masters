@@ -1,0 +1,16 @@
+Class:
+Mage - 
+Subclass:
+apprentice - 
+pyromancer - 
+Hydromancer - 
+Sky weaver -
+surgecaller - 
+Chronomancer (timeless guild only) - 
+ 
+Class:
+Warrior -
+Class: 
+Rogue - 
+Class:
+Rangers - 
