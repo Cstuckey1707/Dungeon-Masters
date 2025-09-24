@@ -22,6 +22,9 @@
 
 * Warrior - "A warrior is a disciplined combatant trained in the use of weapons, armor, and battlefield tactics. They rely on strength, endurance, and skill to dominate in close-quarters combat and protect allies."
 
+*
+
+
 &nbsp;
 
 **Class:** 
