@@ -1,21 +1,23 @@
+# Character Classes
+
 **Class:**
 
 * Mage - "The mage is a scholarly spellcaster who bends the arcane forces of the world to their will. Often cloaked in robes and wielding a staff or tome, they are feared and revered for their mastery of magic."
 
 **Subclass:**
 
-* apprentice - "A fledgling spellcaster just beginning their arcane journey. They rely on basic spells, scrolls, and guidance from mentors or tomes."
+* Arcane mage (Aetherborn)- "The Aetherborn channels raw magical essence through instinct and force of will." 
 
-* pyromancer - "A fire-wielding mage who channels destruction through flame and heat. Their spells scorch battlefields and ignite fear."
+* Fire Mage (Ashbringer)- "The Ashbringers weilds destructive flame to overwhelm enemies with heat and chaos."
 
-* Hydromancer - "A water mage who manipulates tides, ice, and mist. They control flow, cleanse wounds, or drown foes in silence."
+* lightning mage (Stormforged)- "The Stormforged channels volitile energy through their body and weapon, unleashing thunderous bursts perfect for both close quarters and long range."
 
-* Sky weaver - "A wind mage who dances through air and storm. They strike with unseen force and vanish like a breeze."
+* mist mage (Tidecaller)- The Tidecaller bends water, ice, and fog into flowing shields and and freezing waves that reshape the battlefield."
 
-* surge caller - "A lightning mage who channels raw energy into fast, explosive strikes. Their spells crackle with danger and speed."
+* wind mage (Skydancer)- "The Skydancer rides the wind to reposition mid-cast, scattering foes with gusts of and arial finesse." 
 
-* Chronomancer (timeless guild only) - "A time mage who bends reality's flow slowing, speeding, or rewinding events. Their power is subtle but terrifying." 
-
+* time mage (Chronoweaver)- "The Chronoweaver twists the battlefield's tempo by warping speed, delaying, and collapsing moments into devastating bursts."
+___
 &nbsp;
 
 **Class:**
@@ -24,12 +26,18 @@
 
 **Subclass:**
 
-* Ironbound - "
-  
-* Ashbreaker - "
-  
-* Chronoknight - "
+* Arcane warrior (Sigilbound)- ""
 
+* Fire warrior (Ashbreaker)- ""
+
+* Lightning warrior (Stormbrand)- ""
+
+* Stone warrior (Stoneveil)- ""
+
+* Wind warrior (Galestride)- ""
+
+* Time warrior (Chronoknight)- ""
+___
 &nbsp;
 
 **Class:** 
@@ -38,12 +46,36 @@
 
 **Subclass:**
 
+* Arcane rogue ()- ""
 
+* Fire rogue ()- ""
+
+* Lightning rogue()- ""
+
+* Stone rogue()- ""
+
+* Wind rogue()- ""
+
+* Time rogue()- ""
+___
 &nbsp;
 
 **Class:**
 
 * Rangers - "A ranger is a swift and silent marksman, trained to strike from a distance with deadly precision. They move through forests, hills, and ruins like ghosts, tracking prey and protecting the wild."
 
+**Subclass:**
 
+* Arcane ranger ()- ""
 
+* Fire ranger ()- ""
+
+* Lightning ranger()- ""
+
+* Stone ranger()- ""
+
+* Wind ranger()- ""
+
+* Time ranger()- ""
+
+___
