@@ -26,17 +26,18 @@ ___
 
 **Subclass:**
 
-* Arcane warrior (Sigilbound)- ""
+* Arcane warrior (Sigilbound)- "Wears enchanted armor etched with binding sigils, channeling arcane resilience through sacred vows."
 
-* Fire warrior (Ashbreaker)- ""
+* Fire warrior (Ashbreaker)- "Sacrifices defense for explosive fire-fueled offense and volcanic fury.
+"
 
-* Lightning warrior (Stormbrand)- ""
+* Lightning warrior (Stormbrand)- "Charges into battle with electrified strikes and momentum-based shockwaves."
 
-* Stone warrior (Stoneveil)- ""
+* Stone warrior (Stoneveil)- "Turns terrain into fortress, striking with seismic force and ancient resolve."
 
-* Wind warrior (Galestride)- ""
+* Wind warrior (Galestride)- "Carves through air with sweeping force and aerial dominance."
 
-* Time warrior (Chronoknight)- ""
+* Time warrior (Paradox Knight)- "Rewinds movement, delays damage, and fractures reality with temporal cleaves."
 ___
 &nbsp;
 
@@ -46,17 +47,17 @@ ___
 
 **Subclass:**
 
-* Arcane rogue ()- ""
+* Arcane rogue (Sigilstalker)- "Hunts casters by tracking magical signatures and dismantling spellwork with precision."
 
-* Fire rogue ()- ""
+* Fire rogue (Embersting)- "Strikes with incendiary blades and vanishes in smoke."
 
-* Lightning rogue()- ""
+* Lightning rogue(Stormslash)- "Strikes with crackling speed and whip-like precision."
 
-* Stone rogue()- ""
+* Stone rogue(Frostwraith)- "Moves like a ghost through fog, striking with icy precision and vanishing into mist."
 
-* Wind rogue()- ""
+* Wind rogue(Zephyrblade)- "Moves like a cutting breeze through shadows."
 
-* Time rogue()- ""
+* Time rogue(Echorunner)- "Retraces steps and predicts moves through memory magic and speed."
 ___
 &nbsp;
 
@@ -66,16 +67,17 @@ ___
 
 **Subclass:**
 
-* Arcane ranger ()- ""
+* Arcane ranger (Thorncaller)- "Uses enchanted arrows and nature's wrath to strike from afar."
 
-* Fire ranger ()- ""
+* Fire ranger (Embertrail)- "Lights up the battlefield with incendiary arrows and fire traps.
+"
 
-* Lightning ranger()- ""
+* Lightning ranger(Boltstring)- "Fires electrified arrows with precision and speed."
 
-* Stone ranger()- ""
+* Stone ranger(Stonequill)- "Fires seismic arrows and controls terrain with geomantic precision."
 
-* Wind ranger()- ""
+* Wind ranger(Skytracker)- "Navigates aerial terrain with speed and precision."
 
-* Time ranger()- ""
+* Time ranger(Timepiercer)- "Fires arrows through temporal seams, striking before enemies react."
 
 ___
