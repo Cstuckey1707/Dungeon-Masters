@@ -26,3 +26,5 @@ ___
 
 **Class**
 * Dragonborn - "Dragonborn stride through the world with regal bearing and elemental fury. Their breath can scorch armies, and their honor binds them to ancient oaths."
+
+**Types:**
