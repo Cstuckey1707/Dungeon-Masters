@@ -1,83 +1,80 @@
-# Character Classes (changes tbd)
+# Character Classes
 
 **Class:**
 
-* Mage - "The mage is a scholarly spellcaster who bends the arcane forces of the world to their will. Often cloaked in robes and wielding a staff or tome, they are feared and revered for their mastery of magic."
+* Warrior - Masters of steel and combat.
 
 **Subclass:**
 
-* Arcane mage (Aetherborn)- "The Aetherborn channels raw magical essence through instinct and force of will." 
+* Warlord of steel - Commands armies with unmatched strangth.
+* Blade Sentinel - A knight sworn to defend.
+* Beserker of the blood oath - A raging warrior of chaos.
+* Titanbreaker - Smashes giants and war machines with raw fury.
+* Iron Revanant - An unstoppable juggernaut clad in cursed steel.
+* Bloodforged Champion - A warrior reborn in battle, blade thirsting for war.
 
-* Fire Mage (Ashbringer)- "The Ashbringers weilds destructive flame to overwhelm enemies with heat and chaos."
-
-* lightning mage (Stormforged)- "The Stormforged channels volitile energy through their body and weapon, unleashing thunderous bursts perfect for both close quarters and long range."
-
-* mist mage (Tidecaller)- The Tidecaller bends water, ice, and fog into flowing shields and and freezing waves that reshape the battlefield."
-
-* wind mage (Skydancer)- "The Skydancer rides the wind to reposition mid-cast, scattering foes with gusts of and arial finesse." 
-
-* time mage (Chronoweaver)- "The Chronoweaver twists the battlefield's tempo by warping speed, delaying, and collapsing moments into devastating bursts."
 ___
 &nbsp;
 
 **Class:**
 
-* Warrior - "A warrior is a disciplined combatant trained in the use of weapons, armor, and battlefield tactics. They rely on strength, endurance, and skill to dominate in close-quarters combat and protect allies."
+* Mage - Weilders of arcane power.
 
 **Subclass:**
 
-* Arcane warrior (Sigilbound)- "Wears enchanted armor etched with binding sigils, channeling arcane resilience through sacred vows."
+* Chronomancer - Manipulates time itself.
+* Elemental Archanist - Harnesses fire, frost, and lightning.
+* Soulbinder Necromancer - Commands the dead.
+* Eclipse Sorcerer - Harnesses shadow and starlight to bend reality.
+* Infernal Archanist - Channels fire from the abyss.
+* Runebound Sage - Carves rines into the fabric of existance.
 
-* Fire warrior (Ashbreaker)- "Sacrifices defense for explosive fire-fueled offense and volcanic fury.
-"
-
-* Lightning warrior (Stormbrand)- "Charges into battle with electrified strikes and momentum-based shockwaves."
-
-* Stone warrior (Stoneveil)- "Turns terrain into fortress, striking with seismic force and ancient resolve."
-
-* Wind warrior (Galestride)- "Carves through air with sweeping force and aerial dominance."
-
-* Time warrior (Paradox Knight)- "Rewinds movement, delays damage, and fractures reality with temporal cleaves."
 ___
 &nbsp;
 
 **Class:** 
 
-* Rogue - "A rogue is a cunning and agile operative who thrives in the shadows. Masters of stealth, deception, and precision, they rely on speed and wit rather than brute force."
+* Rogue - Stealthy and cunning adventurers.
 
 **Subclass:**
 
-* Arcane rogue (Sigilstalker)- "Hunts casters by tracking magical signatures and dismantling spellwork with precision."
+* Shadowblade - Assassin of the night.
+* Phantom Trickster - Master of deception.
+* Skald Bard - Inspires allies with song.
+* Nightfang Assassin - Predator in the dark, striking with precision.
+* Whisperblade - Phantom killer whose blades sing silently.
+* Dusk Reaver - A rogue who thrives in twilight, harvesting fear and souls.
 
-* Fire rogue (Embersting)- "Strikes with incendiary blades and vanishes in smoke."
-
-* Lightning rogue(Stormslash)- "Strikes with crackling speed and whip-like precision."
-
-* Stone rogue(Frostwraith)- "Moves like a ghost through fog, striking with icy precision and vanishing into mist."
-
-* Wind rogue(Zephyrblade)- "Moves like a cutting breeze through shadows."
-
-* Time rogue(Echorunner)- "Retraces steps and predicts moves through memory magic and speed."
 ___
 &nbsp;
 
 **Class:**
 
-* Rangers - "A ranger is a swift and silent marksman, trained to strike from a distance with deadly precision. They move through forests, hills, and ruins like ghosts, tracking prey and protecting the wild."
+* Cleric - Divine healers and protectors.
 
 **Subclass:**
 
-* Arcane ranger (Thorncaller)- "Uses enchanted arrows and nature's wrath to strike from afar."
+* Radiant Templar - Smiter of evil.
+* Outhbound Paladin - Sacred protector.
+* Void Preist - Dark weilder of shadow.
+* Dawnbringer - Herald of the rising sun, banishing darkness.
+* Gravewarden - Keeper of the dead, channeling tomb and bone.
+* Storm Apostle - Prophet who calls down thunder and divine wrath.
 
-* Fire ranger (Embertrail)- "Lights up the battlefield with incendiary arrows and fire traps.
-"
+___
+&nbsp;
 
-* Lightning ranger(Boltstring)- "Fires electrified arrows with precision and speed."
+**Class:**
 
-* Stone ranger(Stonequill)- "Fires seismic arrows and controls terrain with geomantic precision."
+* Druid - Guardians of nature and shapeshifters.
 
-* Wind ranger(Skytracker)- "Navigates aerial terrain with speed and precision."
+**Subclass:**
 
-* Time ranger(Timepiercer)- "Fires arrows through temporal seams, striking before enemies react."
+* Lunar Shapeshifter - Transforms under the moonlight.
+* Wildheart Beastmaster - Fights with animal allies.
+* Spirit Shaman - Speaks with nature spirits.
+* Emberwild Shaman - Commands wildfire and primal chaos.
+* Moonfang Warden - Protector of the wilds, shifting into beast.
+* Stoneheart Guardian - Living fortress, channeling the endurence of mountains.
 
 ___
