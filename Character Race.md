@@ -40,7 +40,7 @@ ___
 
 # Character classes
 
-**Class: **
+**Class: Warrior**
 **Subclass:**
 * 
 *
@@ -49,7 +49,7 @@ ___
 *
 *
 ___
-**Class: **
+**Class: Mage**
 **Subclass:**
 * 
 *
@@ -58,7 +58,7 @@ ___
 *
 *
 ___
-**Class: **
+**Class: Rogue**
 **Subclass:**
 * 
 *
@@ -67,7 +67,7 @@ ___
 *
 *
 ___
-**Class: **
+**Class: Cleric**
 **Subclass:**
 * 
 *
@@ -76,7 +76,7 @@ ___
 *
 *
 ___
-**Class: **
+**Class: Druid**
 **Subclass:**
 * 
 *
@@ -85,12 +85,7 @@ ___
 *
 *
 ___
-**Class: **
+**Class: Adventurer**
 **Subclass:**
-* 
-*
-*
-*
-*
-*
+* N/A
 
