@@ -35,6 +35,9 @@ ___
 **Types:**
 ___
 
+**Race**
+* Unknown - "An adventurer with unknown origins."
+
 # Character classes
 
 **Class: **
