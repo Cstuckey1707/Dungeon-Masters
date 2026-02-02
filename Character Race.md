@@ -17,6 +17,11 @@ ___
 
 **Types:**
 ___
+**Class**
+* Goblin - "____"
+
+**Types:**
+___
 
 **Class**
 * Orc - "Orcs hail from war-scarred plains and bone-laced camps. Their brute strength is matched by fierce loyalty, and their war chants echo across battlefield and canyon."
