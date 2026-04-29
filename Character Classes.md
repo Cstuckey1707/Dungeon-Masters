@@ -1,4 +1,4 @@
-# Character Classes
+# Character Classes/Subclasses
 
 **Class:**
 
